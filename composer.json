@@ -1,0 +1,15 @@
+{
+    "name": "oomusou/helloworld",
+    "authors": [
+        {
+            "name": "ELLIS",
+            "email": "ellis20180909@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Oomusou\\HelloWorld\\": "src/"
+        }
+    }
+}
