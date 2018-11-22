@@ -79,14 +79,14 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel : {{$message}}
+                    Laravel : {{$message}} // {{$message}}
                 </div>
 
                 <div class="links">
-                    <a href="https://yahoo.com">Documentation</a>
-                    <a href="https://yahoo.com">Laracasts</a>
-                    <a href="https://yahoo.com">News</a>
-                    <a href="https://yahoo.com">Forge</a>
+                    <a href="https://google.com">ABC</a>
+                    <a href="https://yahoo.com">DEF</a>
+                    <a href="https://yahoo.com">GHI</a>
+                    <a href="https://yahoo.com">JKL</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
             </div>
